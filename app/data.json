@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "101",
+      "name": "Ann",
+      "salary": 150000
+    },
+    {
+      "id": "102",
+      "name": "James",
+      "salary": 120000
+    },
+    {
+      "id": "103",
+      "name": "Emily",
+      "salary": 95000
+    },
+    {
+      "id": "104",
+      "name": "Michael",
+      "salary": 175000
+    },
+    {
+      "id": "f58f",
+      "name": "satenik",
+      "salary": "500000"
+    },
+    {
+      "id": "d7cd",
+      "name": "karen",
+      "salary": 50000
+    },
+    {
+      "id": "1be4",
+      "name": "anna",
+      "salary": 50000
+    }
+  ]
+}
